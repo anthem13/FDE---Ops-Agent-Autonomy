@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 420" font-family="Helvetica,Arial,sans-serif" font-size="12">
+<rect width="760" height="420" fill="#ffffff"/>
+<text x="64" y="24" font-size="15" font-weight="bold" fill="#111">Duplicate &amp; unauthorized actions by level</text>
+<line x1="64" x2="590" y1="350" y2="350" stroke="#333"/>
+<line x1="64" x2="590" y1="350.0" y2="350.0" stroke="#e5e7eb"/>
+<text x="56" y="354.0" text-anchor="end" fill="#555">0.00</text>
+<line x1="64" x2="590" y1="288.0" y2="288.0" stroke="#e5e7eb"/>
+<text x="56" y="292.0" text-anchor="end" fill="#555">84</text>
+<line x1="64" x2="590" y1="226.0" y2="226.0" stroke="#e5e7eb"/>
+<text x="56" y="230.0" text-anchor="end" fill="#555">168</text>
+<line x1="64" x2="590" y1="164.0" y2="164.0" stroke="#e5e7eb"/>
+<text x="56" y="168.0" text-anchor="end" fill="#555">251</text>
+<line x1="64" x2="590" y1="102.0" y2="102.0" stroke="#e5e7eb"/>
+<text x="56" y="106.0" text-anchor="end" fill="#555">335</text>
+<line x1="64" x2="590" y1="40.0" y2="40.0" stroke="#e5e7eb"/>
+<text x="56" y="44.0" text-anchor="end" fill="#555">419</text>
+<rect x="70.6" y="350.0" width="11.2" height="0.0" fill="#2563eb"/>
+<rect x="83.7" y="350.0" width="11.2" height="0.0" fill="#dc2626"/>
+<rect x="96.9" y="350.0" width="11.2" height="0.0" fill="#d97706"/>
+<rect x="110.0" y="350.0" width="11.2" height="0.0" fill="#059669"/>
+<text x="96.9" y="366" text-anchor="middle" fill="#333">L0</text>
+<rect x="136.3" y="350.0" width="11.2" height="0.0" fill="#2563eb"/>
+<rect x="149.5" y="350.0" width="11.2" height="0.0" fill="#dc2626"/>
+<rect x="162.6" y="302.7" width="11.2" height="47.3" fill="#d97706"/>
+<rect x="175.8" y="272.3" width="11.2" height="77.7" fill="#059669"/>
+<text x="162.6" y="366" text-anchor="middle" fill="#333">L1</text>
+<rect x="202.1" y="350.0" width="11.2" height="0.0" fill="#2563eb"/>
+<rect x="215.2" y="350.0" width="11.2" height="0.0" fill="#dc2626"/>
+<rect x="228.4" y="246.4" width="11.2" height="103.6" fill="#d97706"/>
+<rect x="241.5" y="194.7" width="11.2" height="155.3" fill="#059669"/>
+<text x="228.4" y="366" text-anchor="middle" fill="#333">L2</text>
+<rect x="267.8" y="350.0" width="11.2" height="0.0" fill="#2563eb"/>
+<rect x="281.0" y="350.0" width="11.2" height="0.0" fill="#dc2626"/>
+<rect x="294.1" y="227.2" width="11.2" height="122.8" fill="#d97706"/>
+<rect x="307.3" y="174.7" width="11.2" height="175.3" fill="#059669"/>
+<text x="294.1" y="366" text-anchor="middle" fill="#333">L3</text>
+<rect x="333.6" y="350.0" width="11.2" height="0.0" fill="#2563eb"/>
+<rect x="346.7" y="350.0" width="11.2" height="0.0" fill="#dc2626"/>
+<rect x="359.9" y="222.0" width="11.2" height="128.0" fill="#d97706"/>
+<rect x="373.0" y="158.4" width="11.2" height="191.6" fill="#059669"/>
+<text x="359.9" y="366" text-anchor="middle" fill="#333">L4</text>
+<rect x="399.3" y="350.0" width="11.2" height="0.0" fill="#2563eb"/>
+<rect x="412.5" y="350.0" width="11.2" height="0.0" fill="#dc2626"/>
+<rect x="425.6" y="200.6" width="11.2" height="149.4" fill="#d97706"/>
+<rect x="438.8" y="120.0" width="11.2" height="230.0" fill="#059669"/>
+<text x="425.6" y="366" text-anchor="middle" fill="#333">L5</text>
+<rect x="465.1" y="350.0" width="11.2" height="0.0" fill="#2563eb"/>
+<rect x="478.2" y="350.0" width="11.2" height="0.0" fill="#dc2626"/>
+<rect x="491.4" y="198.4" width="11.2" height="151.6" fill="#d97706"/>
+<rect x="504.5" y="94.1" width="11.2" height="255.9" fill="#059669"/>
+<text x="491.4" y="366" text-anchor="middle" fill="#333">L6</text>
+<rect x="530.8" y="350.0" width="11.2" height="0.0" fill="#2563eb"/>
+<rect x="544.0" y="350.0" width="11.2" height="0.0" fill="#dc2626"/>
+<rect x="557.1" y="193.9" width="11.2" height="156.1" fill="#d97706"/>
+<rect x="570.3" y="68.2" width="11.2" height="281.8" fill="#059669"/>
+<text x="557.1" y="366" text-anchor="middle" fill="#333">L7</text>
+<rect x="604" y="40" width="12" height="12" fill="#2563eb"/>
+<text x="622" y="50" fill="#222">dup (on)</text>
+<rect x="604" y="60" width="12" height="12" fill="#dc2626"/>
+<text x="622" y="70" fill="#222">unauth (on)</text>
+<rect x="604" y="80" width="12" height="12" fill="#d97706"/>
+<text x="622" y="90" fill="#222">dup (off)</text>
+<rect x="604" y="100" width="12" height="12" fill="#059669"/>
+<text x="622" y="110" fill="#222">unauth (off)</text>
+<text transform="translate(16,195.0) rotate(-90)" text-anchor="middle" fill="#333">count</text>
+</svg>

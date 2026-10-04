@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" font-family="Helvetica,Arial,sans-serif" font-size="12">
+<rect width="720" height="420" fill="#ffffff"/>
+<text x="64" y="24" font-size="15" font-weight="bold" fill="#111">Autonomy ladder: L0 shadow → L7 full</text>
+<line x1="64" x2="550" y1="368.0" y2="368.0" stroke="#e5e7eb"/>
+<text x="56" y="372.0" text-anchor="end" fill="#555">0.00</text>
+<text x="64.0" y="386" text-anchor="middle" fill="#555">0.00</text>
+<line x1="64" x2="550" y1="302.4" y2="302.4" stroke="#e5e7eb"/>
+<text x="56" y="306.4" text-anchor="end" fill="#555">0.20</text>
+<text x="161.2" y="386" text-anchor="middle" fill="#555">1.4</text>
+<line x1="64" x2="550" y1="236.8" y2="236.8" stroke="#e5e7eb"/>
+<text x="56" y="240.8" text-anchor="end" fill="#555">0.40</text>
+<text x="258.4" y="386" text-anchor="middle" fill="#555">2.8</text>
+<line x1="64" x2="550" y1="171.2" y2="171.2" stroke="#e5e7eb"/>
+<text x="56" y="175.2" text-anchor="end" fill="#555">0.60</text>
+<text x="355.6" y="386" text-anchor="middle" fill="#555">4.2</text>
+<line x1="64" x2="550" y1="105.6" y2="105.6" stroke="#e5e7eb"/>
+<text x="56" y="109.6" text-anchor="end" fill="#555">0.80</text>
+<text x="452.8" y="386" text-anchor="middle" fill="#555">5.6</text>
+<line x1="64" x2="550" y1="40.0" y2="40.0" stroke="#e5e7eb"/>
+<text x="56" y="44.0" text-anchor="end" fill="#555">1.0</text>
+<text x="550.0" y="386" text-anchor="middle" fill="#555">7.0</text>
+<line x1="64" x2="64" y1="40" y2="368" stroke="#333"/>
+<line x1="64" x2="550" y1="368" y2="368" stroke="#333"/>
+<text x="307.0" y="410" text-anchor="middle" fill="#333">permission level</text>
+<text transform="translate(16,204.0) rotate(-90)" text-anchor="middle" fill="#333">rate per email</text>
+<line x1="550.0" x2="550.0" y1="40" y2="368" stroke="#ef4444" stroke-width="1.5" stroke-dasharray="5 3"/>
+<text x="554.0" y="52" fill="#ef4444" font-weight="bold">safe scope</text>
+<line x1="64" x2="550" y1="364.7" y2="364.7" stroke="#6b7280" stroke-dasharray="2 3"/>
+<text x="546" y="360.7" text-anchor="end" fill="#6b7280">epsilon</text>
+<path d="M64.0,368.0 L133.4,368.0 L202.9,307.3 L272.3,249.9 L341.7,227.0 L411.1,162.2 L480.6,162.2 L550.0,162.2" fill="none" stroke="#2563eb" stroke-width="2.2"/>
+<circle cx="64.0" cy="368.0" r="3" fill="#2563eb"/>
+<circle cx="133.4" cy="368.0" r="3" fill="#2563eb"/>
+<circle cx="202.9" cy="307.3" r="3" fill="#2563eb"/>
+<circle cx="272.3" cy="249.9" r="3" fill="#2563eb"/>
+<circle cx="341.7" cy="227.0" r="3" fill="#2563eb"/>
+<circle cx="411.1" cy="162.2" r="3" fill="#2563eb"/>
+<circle cx="480.6" cy="162.2" r="3" fill="#2563eb"/>
+<circle cx="550.0" cy="162.2" r="3" fill="#2563eb"/>
+<rect x="564" y="41" width="14" height="4" fill="#2563eb"/>
+<text x="584" y="47" fill="#222">completion rate (guards on)</text>
+<path d="M64.0,40.0 L133.4,40.0 L202.9,100.7 L272.3,158.1 L341.7,181.0 L411.1,245.8 L480.6,245.8 L550.0,245.8" fill="none" stroke="#dc2626" stroke-width="2.2"/>
+<circle cx="64.0" cy="40.0" r="3" fill="#dc2626"/>
+<circle cx="133.4" cy="40.0" r="3" fill="#dc2626"/>
+<circle cx="202.9" cy="100.7" r="3" fill="#dc2626"/>
+<circle cx="272.3" cy="158.1" r="3" fill="#dc2626"/>
+<circle cx="341.7" cy="181.0" r="3" fill="#dc2626"/>
+<circle cx="411.1" cy="245.8" r="3" fill="#dc2626"/>
+<circle cx="480.6" cy="245.8" r="3" fill="#dc2626"/>
+<circle cx="550.0" cy="245.8" r="3" fill="#dc2626"/>
+<rect x="564" y="61" width="14" height="4" fill="#dc2626"/>
+<text x="584" y="67" fill="#222">human interventions / email</text>
+<path d="M64.0,368.0 L133.4,368.0 L202.9,368.0 L272.3,368.0 L341.7,368.0 L411.1,368.0 L480.6,368.0 L550.0,368.0" fill="none" stroke="#d97706" stroke-width="2.2"/>
+<circle cx="64.0" cy="368.0" r="3" fill="#d97706"/>
+<circle cx="133.4" cy="368.0" r="3" fill="#d97706"/>
+<circle cx="202.9" cy="368.0" r="3" fill="#d97706"/>
+<circle cx="272.3" cy="368.0" r="3" fill="#d97706"/>
+<circle cx="341.7" cy="368.0" r="3" fill="#d97706"/>
+<circle cx="411.1" cy="368.0" r="3" fill="#d97706"/>
+<circle cx="480.6" cy="368.0" r="3" fill="#d97706"/>
+<circle cx="550.0" cy="368.0" r="3" fill="#d97706"/>
+<rect x="564" y="81" width="14" height="4" fill="#d97706"/>
+<text x="584" y="87" fill="#222">errors / email (guards on)</text>
+<path d="M64.0,368.0 L133.4,229.4 L202.9,81.0 L272.3,40.0 L341.7,40.0 L411.1,40.0 L480.6,40.0 L550.0,40.0" fill="none" stroke="#059669" stroke-width="2.2"/>
+<circle cx="64.0" cy="368.0" r="3" fill="#059669"/>
+<circle cx="133.4" cy="229.4" r="3" fill="#059669"/>
+<circle cx="202.9" cy="81.0" r="3" fill="#059669"/>
+<circle cx="272.3" cy="40.0" r="3" fill="#059669"/>
+<circle cx="341.7" cy="40.0" r="3" fill="#059669"/>
+<circle cx="411.1" cy="40.0" r="3" fill="#059669"/>
+<circle cx="480.6" cy="40.0" r="3" fill="#059669"/>
+<circle cx="550.0" cy="40.0" r="3" fill="#059669"/>
+<rect x="564" y="101" width="14" height="4" fill="#059669"/>
+<text x="584" y="107" fill="#222">errors / email (guards off)</text>
+</svg>

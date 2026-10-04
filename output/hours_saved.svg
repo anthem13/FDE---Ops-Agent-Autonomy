@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" font-family="Helvetica,Arial,sans-serif" font-size="12">
+<rect width="720" height="420" fill="#ffffff"/>
+<text x="64" y="24" font-size="15" font-weight="bold" fill="#111">Net hours saved over 400 emails (after cleanup cost)</text>
+<line x1="64" x2="550" y1="368.0" y2="368.0" stroke="#e5e7eb"/>
+<text x="56" y="372.0" text-anchor="end" fill="#555">0.00</text>
+<text x="64.0" y="386" text-anchor="middle" fill="#555">0.00</text>
+<line x1="64" x2="550" y1="302.4" y2="302.4" stroke="#e5e7eb"/>
+<text x="56" y="306.4" text-anchor="end" fill="#555">7.5</text>
+<text x="161.2" y="386" text-anchor="middle" fill="#555">1.4</text>
+<line x1="64" x2="550" y1="236.8" y2="236.8" stroke="#e5e7eb"/>
+<text x="56" y="240.8" text-anchor="end" fill="#555">15</text>
+<text x="258.4" y="386" text-anchor="middle" fill="#555">2.8</text>
+<line x1="64" x2="550" y1="171.2" y2="171.2" stroke="#e5e7eb"/>
+<text x="56" y="175.2" text-anchor="end" fill="#555">22</text>
+<text x="355.6" y="386" text-anchor="middle" fill="#555">4.2</text>
+<line x1="64" x2="550" y1="105.6" y2="105.6" stroke="#e5e7eb"/>
+<text x="56" y="109.6" text-anchor="end" fill="#555">30</text>
+<text x="452.8" y="386" text-anchor="middle" fill="#555">5.6</text>
+<line x1="64" x2="550" y1="40.0" y2="40.0" stroke="#e5e7eb"/>
+<text x="56" y="44.0" text-anchor="end" fill="#555">37</text>
+<text x="550.0" y="386" text-anchor="middle" fill="#555">7.0</text>
+<line x1="64" x2="64" y1="40" y2="368" stroke="#333"/>
+<line x1="64" x2="550" y1="368" y2="368" stroke="#333"/>
+<text x="307.0" y="410" text-anchor="middle" fill="#333">permission level</text>
+<text transform="translate(16,204.0) rotate(-90)" text-anchor="middle" fill="#333">hours</text>
+<line x1="550.0" x2="550.0" y1="40" y2="368" stroke="#ef4444" stroke-width="1.5" stroke-dasharray="5 3"/>
+<text x="554.0" y="52" fill="#ef4444" font-weight="bold">safe scope</text>
+<path d="M64.0,368.0 L133.4,192.7 L202.9,154.8 L272.3,119.0 L341.7,104.7 L411.1,64.3 L480.6,64.3 L550.0,64.3" fill="none" stroke="#2563eb" stroke-width="2.2"/>
+<circle cx="64.0" cy="368.0" r="3" fill="#2563eb"/>
+<circle cx="133.4" cy="192.7" r="3" fill="#2563eb"/>
+<circle cx="202.9" cy="154.8" r="3" fill="#2563eb"/>
+<circle cx="272.3" cy="119.0" r="3" fill="#2563eb"/>
+<circle cx="341.7" cy="104.7" r="3" fill="#2563eb"/>
+<circle cx="411.1" cy="64.3" r="3" fill="#2563eb"/>
+<circle cx="480.6" cy="64.3" r="3" fill="#2563eb"/>
+<circle cx="550.0" cy="64.3" r="3" fill="#2563eb"/>
+<rect x="564" y="41" width="14" height="4" fill="#2563eb"/>
+<text x="584" y="47" fill="#222">guards on</text>
+<path d="M64.0,368.0 L133.4,716.5 L202.9,1228.8 L272.3,1334.8 L341.7,1416.2 L411.1,1602.7 L480.6,1719.2 L550.0,1842.3" fill="none" stroke="#dc2626" stroke-width="2.2"/>
+<circle cx="64.0" cy="368.0" r="3" fill="#dc2626"/>
+<circle cx="133.4" cy="716.5" r="3" fill="#dc2626"/>
+<circle cx="202.9" cy="1228.8" r="3" fill="#dc2626"/>
+<circle cx="272.3" cy="1334.8" r="3" fill="#dc2626"/>
+<circle cx="341.7" cy="1416.2" r="3" fill="#dc2626"/>
+<circle cx="411.1" cy="1602.7" r="3" fill="#dc2626"/>
+<circle cx="480.6" cy="1719.2" r="3" fill="#dc2626"/>
+<circle cx="550.0" cy="1842.3" r="3" fill="#dc2626"/>
+<rect x="564" y="61" width="14" height="4" fill="#dc2626"/>
+<text x="584" y="67" fill="#222">guards off</text>
+</svg>
